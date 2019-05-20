@@ -1,0 +1,33 @@
+﻿body {
+    font-family: "Lucida Console",'Microsoft New Tai Lue',sans-serif;
+    color: #4498d5;
+    font-size: 12px;
+}
+
+p {
+    padding: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 12px;
+    margin: 0 20px 20px 20px;
+    border-top: 2px solid #808080;
+    width: 480px;
+}
+th{
+    text-align:left;
+    font-weight:normal;
+    color:#ffffff;
+    background:#000000;
+}
+td{
+    padding:6px;
+}
+tbody {
+    color: green;
+}
+tr{
+    font-size:25px;
+    background:#e1e0c6;
+}
